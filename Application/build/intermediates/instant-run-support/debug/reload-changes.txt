@@ -1,0 +1,10 @@
+CHANGED,C:\Users\harrison\Downloads\BluetoothLeGatt2\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\bluetoothlegatt\DeviceScanActivity$LeDeviceListAdapter$override.class
+CHANGED,C:\Users\harrison\Downloads\BluetoothLeGatt2\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\bluetoothlegatt\R$id$override.class
+CHANGED,C:\Users\harrison\Downloads\BluetoothLeGatt2\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\bluetoothlegatt\R$string$override.class
+CHANGED,C:\Users\harrison\Downloads\BluetoothLeGatt2\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\bluetoothlegatt\DeviceScanActivity$override.class
+CHANGED,C:\Users\harrison\Downloads\BluetoothLeGatt2\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\harrison\Downloads\BluetoothLeGatt2\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\bluetoothlegatt\R$style$override.class
+CHANGED,C:\Users\harrison\Downloads\BluetoothLeGatt2\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\bluetoothlegatt\R$styleable$override.class
+CHANGED,C:\Users\harrison\Downloads\BluetoothLeGatt2\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\bluetoothlegatt\R$layout$override.class
+CHANGED,C:\Users\harrison\Downloads\BluetoothLeGatt2\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\bluetoothlegatt\DeviceControlActivity$override.class
+CHANGED,C:\Users\harrison\Downloads\BluetoothLeGatt2\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\bluetoothlegatt\R$menu$override.class

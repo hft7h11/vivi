@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\harrison\\Downloads\\BluetoothLeGatt2\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\Users\\harrison\\Downloads\\BluetoothLeGatt2\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\harrison\\Downloads\\BluetoothLeGatt2\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\harrison\\Downloads\\BluetoothLeGatt2\\Application\\src\\main\\res\\menu\\main.xml"
+    }
+]
